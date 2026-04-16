@@ -2,6 +2,7 @@ package com.pluralsight;
 
 
 public class Vehicle {
+
     private long vehicleID;
     private String makeModel;
     private String color;
